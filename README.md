@@ -1,4 +1,4 @@
-# Who I am
+# <p align="center"> Who I am </p>
 Just a random guy who does machine learning, game development and other weird stuff.
 
 [![Ahmad Ayaz Amin's github stats](https://github-readme-stats.vercel.app/api?username=ayaz-amin&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=ayaz-amin%20statistics)](https://github.com/ayaz-amin)
