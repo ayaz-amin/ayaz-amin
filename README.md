@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Ahmad Ayaz Amin's github stats](https://github-readme-stats.vercel.app/api?username=ayaz-amin&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=ayaz-amin%20statistics)](https://github.com/ayaz-amin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-amin&layout=compact&theme=github_dark&hide=cmake,makefile,shell)](https://github.com/ayaz-amin)
 
 <!--
 **ayaz-amin/ayaz-amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
