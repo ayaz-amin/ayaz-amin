@@ -7,4 +7,4 @@ Just a random guy who does machine learning, game development and other weird st
 
 - 🔭 I’m currently working on building a strong portfolio of projects
 - 🌱 I’m currently learning unconventional approaches to AI (particularly generative models)
-- ⚡ Fun fact: I don't have any
+- ⚡ Fun fact: I have an [Artstation](https://www.artstation.com/ahmadayazamin7) portfolio
