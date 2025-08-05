@@ -1,4 +1,4 @@
-# <p align="center"> Who I am </p>
+# <p align="center"> I am Ayaz </p>
 CS @ Toronto Metropolitan University (form. Ryerson).
 
 Independant machine learning researcher.
@@ -11,6 +11,6 @@ Vulkan, Pytorch, C/C++.
 
 [![Top Langs](https://github-readme-stats-j19g-4dc6yvuhg-ayaz-amin.vercel.app/api/top-langs/?username=ayaz-amin&layout=compact&theme=github_dark&hide=cmake,makefile,shell)](https://github.com/ayaz-amin)
 
-- 🔭 I’m currently working on building a strong portfolio of projects
-- 🌱 I’m currently learning unconventional approaches to AI (particularly generative models)
-- ⚡ Fun fact: I have an [Artstation](https://www.artstation.com/ahmadayazamin7) portfolio
+- 🌱 Deep Generative Modeling
+- 🔭 Game development
+- ⚡ I have an [Artstation](https://www.artstation.com/ahmadayazamin7) portfolio
